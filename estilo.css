@@ -28,3 +28,12 @@ margin:0 auto
     width: 100%;
     font-size: 32px;
 }
+.titulo-principal span{
+    color:aquamarine;
+}
+.botao{
+    background-color:var var(--botao-inativo);
+    display:flex;
+    justify-content:center;
+    padding:lem;
+}
