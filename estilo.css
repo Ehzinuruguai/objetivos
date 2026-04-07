@@ -51,6 +51,12 @@ margin:0 auto
     .botoes{
         display: flex;
     }
+    .botao:first-child{
+    border-radius: 40px 0 0 0;
+}
+    .botao:last-child{
+    border-radius: 40px 0 0 40px;
+}
 }
     
 
