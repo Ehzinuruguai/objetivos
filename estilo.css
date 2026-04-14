@@ -48,7 +48,7 @@ margin:0 auto
     border-radius: 40px 40px 0 0;
 }
 .botao.ativo{
-    background-color: var(--botao-ativo);
+    background-color: var(--botao-inativo);
     border-bottom: 4px red;
 }
 .aba-conteudo.ativo{
