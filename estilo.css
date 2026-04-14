@@ -51,8 +51,14 @@ margin:0 auto
     background-color: var(--botao-ativo);
     border-bottom: 4px red;
 }
-
-
+.aba-conteudo.ativo{
+    display: block;
+}
+.abas-textos{
+    background-color: var(--cor-de-fundo);
+    padding: 40px;
+    border-radius: 0 0 40px 40px;
+}
 
 
 
