@@ -52,6 +52,9 @@ margin:0 auto
     border-bottom: 4px red;
 }
 .aba-conteudo.ativo{
+    display:none;
+}
+.aba-conteudo.ativo{
     display: block;
 }
 .abas-texto{
