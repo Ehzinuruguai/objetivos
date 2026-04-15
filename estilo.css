@@ -57,6 +57,10 @@ margin:0 auto
 .aba-conteudo.ativo{
     display: block;
 }
+.conteudo-titulo-principal{
+font-size:28px;
+text-align:center;
+}
 .abas-texto{
     background-color: var(--cor-de-fundo);
     padding: 40px;
