@@ -61,6 +61,12 @@ margin:0 auto
 font-size:28px;
 text-align:center;
 }
+.aba-conteudo.ativo{
+    display: block;
+}
+.aba-conteudo{
+    display:none;
+}
 .abas-texto{
     background-color: var(--cor-de-fundo);
     padding: 40px;
